@@ -1,0 +1,25 @@
+c:\users\administrator.bomgardev\documents\visual studio 2015\Projects\TrialSortFile\TrialSortFile\bin\Debug\TrialSortFile.exe.config
+c:\users\administrator.bomgardev\documents\visual studio 2015\Projects\TrialSortFile\TrialSortFile\bin\Debug\TrialSortFile.exe
+c:\users\administrator.bomgardev\documents\visual studio 2015\Projects\TrialSortFile\TrialSortFile\bin\Debug\TrialSortFile.pdb
+c:\users\administrator.bomgardev\documents\visual studio 2015\Projects\TrialSortFile\TrialSortFile\obj\Debug\TrialSortFile.exe
+c:\users\administrator.bomgardev\documents\visual studio 2015\Projects\TrialSortFile\TrialSortFile\obj\Debug\TrialSortFile.pdb
+c:\users\administrator.bomgardev\documents\visual studio 2015\Projects\TrialSortFile\TrialSortFile\obj\Debug\SortFile.csprojResolveAssemblyReference.cache
+D:\Test\TrialSortFile\TrialSortFile\obj\Debug\SortFile.csprojResolveAssemblyReference.cache
+D:\Test\TrialSortFile\TrialSortFile\bin\Debug\SortFile.exe.config
+D:\Test\TrialSortFile\TrialSortFile\bin\Debug\SortFile.exe
+D:\Test\TrialSortFile\TrialSortFile\bin\Debug\SortFile.pdb
+D:\Test\TrialSortFile\TrialSortFile\obj\Debug\SortFile.exe
+D:\Test\TrialSortFile\TrialSortFile\obj\Debug\SortFile.pdb
+D:\Test\TrialSortFile\TrialSortFile\obj\Debug\SortFile.Resources.ErrorMessege.resources
+D:\Test\TrialSortFile\TrialSortFile\obj\Debug\SortFile.csproj.GenerateResource.Cache
+D:\Test\GlobalX\TrialSortFile\TrialSortFile\bin\Debug\SortFile.exe.config
+D:\Test\GlobalX\TrialSortFile\TrialSortFile\obj\Debug\SortFile.exe
+D:\Test\GlobalX\TrialSortFile\TrialSortFile\obj\Debug\SortFile.pdb
+D:\Test\GlobalX\TrialSortFile\SortFile\bin\Debug\SortFile.exe.config
+D:\Test\GlobalX\TrialSortFile\SortFile\bin\Debug\SortFile.exe
+D:\Test\GlobalX\TrialSortFile\SortFile\bin\Debug\SortFile.pdb
+D:\Test\GlobalX\TrialSortFile\SortFile\obj\Debug\SortFile.csprojResolveAssemblyReference.cache
+D:\Test\GlobalX\TrialSortFile\SortFile\obj\Debug\SortFile.Resources.ErrorMessege.resources
+D:\Test\GlobalX\TrialSortFile\SortFile\obj\Debug\SortFile.csproj.GenerateResource.Cache
+D:\Test\GlobalX\TrialSortFile\SortFile\obj\Debug\SortFile.exe
+D:\Test\GlobalX\TrialSortFile\SortFile\obj\Debug\SortFile.pdb

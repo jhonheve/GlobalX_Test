@@ -1,0 +1,6 @@
+c:\users\administrator.bomgardev\documents\visual studio 2015\Projects\TrialSortFile\TrialSortFile\bin\Debug\TrialSortFile.exe.config
+c:\users\administrator.bomgardev\documents\visual studio 2015\Projects\TrialSortFile\TrialSortFile\bin\Debug\TrialSortFile.exe
+c:\users\administrator.bomgardev\documents\visual studio 2015\Projects\TrialSortFile\TrialSortFile\bin\Debug\TrialSortFile.pdb
+c:\users\administrator.bomgardev\documents\visual studio 2015\Projects\TrialSortFile\TrialSortFile\obj\Debug\TrialSortFile.csprojResolveAssemblyReference.cache
+c:\users\administrator.bomgardev\documents\visual studio 2015\Projects\TrialSortFile\TrialSortFile\obj\Debug\TrialSortFile.exe
+c:\users\administrator.bomgardev\documents\visual studio 2015\Projects\TrialSortFile\TrialSortFile\obj\Debug\TrialSortFile.pdb
