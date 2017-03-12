@@ -74,7 +74,7 @@ namespace SortFile
             {
                 if (File.Exists(PathSavedFile))
                 {
-                    fileName = string.Format("{0}-{1}.txt", fileName, DateTime.Now.ToString("YYmmddhhmmss"));
+                    fileName = string.Format("{0}-{1}.txt", Path.GetFileNameWithoutExtension(PathSavedFile), DateTime.Now.ToString("YYmmddhhmmss"));
                     PathSavedFile = Path.GetFullPath(Path.Combine(path, @"..\", fileName));
                 }
                 using (TextWriter tw = new StreamWriter(PathSavedFile))
