@@ -15,7 +15,6 @@ namespace SortFile
         
         public virtual List<User> ReadFile(string path)
         {
-
             var users = new List<User>();
             if (File.Exists(path) && Path.GetExtension(path) == ".txt")
             {
