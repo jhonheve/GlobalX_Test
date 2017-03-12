@@ -3,7 +3,6 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System.Linq;
 using SortFile;
-using Moq;
 using System.Reflection;
 using System.IO;
 
